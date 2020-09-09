@@ -7,7 +7,7 @@ after_initialize do
     load File.expand_path('../app/controllers/friendlyfeed_controller.rb', __FILE__)
   
     Discourse::Application.routes.append do
-      # Map the path `/friendlyfeed` to `friendlyfeed_Controller`’s `index` method
+      # Map the path `/friendlyfeed` to `FriendlyfeedController`’s `index` method
       get '/friendlyfeed' => 'friendlyfeed#index'
     end
   end
