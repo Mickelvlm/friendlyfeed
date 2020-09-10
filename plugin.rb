@@ -1,5 +1,5 @@
 # name: friendlyfeed
-# version: 0.1.4
+# version: 0.1.5
 # about: Something about this
 # author: Mickel Munk, mv@rawr.dk
 # url: https://github.com/Mickelvlm/friendlyfeed
