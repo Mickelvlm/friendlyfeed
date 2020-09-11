@@ -1,1 +1,8 @@
 <h1>Friendlyfeed</h1>
+<div class="column categories">
+  {{categories-only categories=categories}}
+</div>
+
+<div class="column">
+  {{categories-topic-list topics=topics filter="latest" class="latest-topic-list"}}
+</div>

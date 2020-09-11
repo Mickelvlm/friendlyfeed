@@ -1,9 +1,8 @@
 # name: friendlyfeed
-# version: 0.1.6
+# version: 0.1.7
 # about: Something about this
 # author: Mickel Munk, mv@rawr.dk
 # url: https://github.com/Mickelvlm/friendlyfeed
-
 
 enabled_site_setting :friendlyfeed_enabled
 
